@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+                <h3>Branding</h3>
+                <p>Building strong visual identity and social media presence.</p>
+            </div>
+
+            <div class="card">
+                <h3>Content Strategy</h3>
+                <p>Creating engaging content systems for organic growth.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- PROJECTS -->
+
+    <section id="projects">
+
+        <div class="section-title">
+            <h2>Projects</h2>
+        </div>
+
+        <div class="grid">
+
+            <div class="card">
+                <h3>Muraqba Brand</h3>
+                <p>Developed branding and content strategy for spiritual wellness brand.</p>
+            </div>
+
+            <div class="card">
+                <h3>Portfolio Website</h3>
+                <p>Modern responsive portfolio with premium UI and mobile optimization.</p>
+            </div>
+
+            <div class="card">
+                <h3>Social Media Campaigns</h3>
+                <p>Created engaging ad creatives and audience growth strategies.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- CONTACT -->
+
+    <section id="contact">
+
+        <div class="section-title">
+            <h2>Contact Me</h2>
+        </div>
+
+        <div class="contact-box">
+
+            <form>
+                <input type="text" placeholder="Your Name">
+                <input type="email" placeholder="Your Email">
+                <textarea placeholder="Your Message"></textarea>
+
+                <button class="btn">Send Message</button>
+            </form>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer>
+        <p>© 2026 Shan Mushtaq. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
